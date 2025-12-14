@@ -1,0 +1,26 @@
+(venv) theia:devops-capstone-project-coursera$ gh run view 20203940827 --verbose
+
+✓ copilot/add-user-story-template Running Copilot coding agent #2 · 20203940827
+Triggered via dynamic about 2 hours ago
+
+JOBS
+✓ copilot in 5m14s (ID 57999749307)
+  ✓ Set up job
+  ✓ Validate runner OS
+  - Validate firewall settings (Linux)
+  - Validate firewall settings (Windows)
+  ✓ Start downloading Playwright MCP server in the background (Linux)
+  - Start downloading Playwright MCP server in the background (Windows)
+  ✓ Prepare Copilot (Linux)
+  - Prepare Copilot (Windows)
+  ✓ Start MCP Servers (Linux)
+  - Start MCP Servers (Windows)
+  ✓ Processing Request (Linux)
+  - Processing Request (Windows)
+  ✓ Clean Up (Linux)
+  - Clean Up (Windows)
+  - [Optional] Archive Details
+  ✓ Complete job
+
+For more information about a job, try: gh run view --job=<job-id>
+View this run on GitHub: https://github.com/almas-the-fixer/devops-capstone-project-coursera/actions/runs/20203940827
