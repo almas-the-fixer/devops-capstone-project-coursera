@@ -1,0 +1,27 @@
+# GitHub Project Board Configuration
+# This file defines the Kanban board structure for the DevOps Capstone Project
+
+name: DevOps Capstone Project Kanban Board
+description: Project management board for tracking development tasks
+
+columns:
+  - name: New issues
+    description: Newly created issues that need to be triaged
+    
+  - name: Icebox
+    description: Ideas and future enhancements that are not currently prioritized
+    
+  - name: Product backlog
+    description: Prioritized features and tasks ready for sprint planning
+    
+  - name: Sprint backlog
+    description: Tasks committed for the current sprint
+    
+  - name: In progress
+    description: Tasks currently being worked on
+    
+  - name: Review/QA
+    description: Tasks under review or quality assurance testing
+    
+  - name: Done
+    description: Completed tasks
